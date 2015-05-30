@@ -10,6 +10,7 @@ RUN apt-get update -qq \
        build-essential \
        git \
        wget \
+       curl \
        ca-certificates \
        man
 
